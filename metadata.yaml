@@ -1,0 +1,33 @@
+_repo: Bloodletting-Instruments-in-the-National-Museum-of-History-and-Technology_33102
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33102-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Davis, Audrey B.
+    birthdate: 1934
+    gutenberg_agent_id: '36207'
+    url: http://www.gutenberg.org/2009/agents/36207
+  - agent_name: Appel, Toby A.
+    alias: Appel, Toby
+    birthdate: 1945
+    gutenberg_agent_id: '36208'
+    url: http://www.gutenberg.org/2009/agents/36208
+description: ''
+gutenberg_issued: '2010-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33102'
+  lccn: '78606043'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Phlebotomy -- History'
+- !lcsh 'Phlebotomy -- Instruments -- Catalogs'
+- !lcc 'RM'
+- !lcsh 'National Museum of History and Technology'
+title: Bloodletting Instruments in the National Museum of History and Technology
+url: http://www.gutenberg.org/ebooks/33102
