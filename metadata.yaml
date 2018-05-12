@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '36208'
     url: http://www.gutenberg.org/2009/agents/36208
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33102#Bloodletting-Instruments-in-the-National-Museum-of-History-and-Technology
 gutenberg_issued: '2010-07-07'
 gutenberg_type: Text
 identifiers:
